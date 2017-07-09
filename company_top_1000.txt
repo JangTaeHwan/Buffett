@@ -1,0 +1,1000 @@
+삼성전자 005930 /equities/samsung-electronics-co-ltd
+Samsung Electronics Co Pref 005935 /equities/samsung-electronics-co-pref
+SK하이닉스 000660 /equities/sk-hynix-inc
+현대자동차 005380 /equities/hyundai-motor
+Hyundai Motor Co 005385 /equities/hyundai-motor-co-ks
+Hyundai Motor Co Pref 005387 /equities/hyundai-motor-co-pref
+Samsung C&T Corp 028260 /equities/cheil-industries-inc
+NAVER 035420 /equities/nhn-corp
+한국전력공사 015760 /equities/kepco
+POSCO 005490 /equities/posco-inc
+삼성생명 032830 /equities/samsung-life
+현대모비스 012330 /equities/hyundai-mobis
+KB금융 105560 /equities/kb-financial-group
+신한지주 055550 /equities/shinhan-financial-group
+SK텔레콤 017670 /equities/sk-telecom-co-ltd
+LG화학 051910 /equities/lg-chemicals
+LG Chem Ltd 051915 /equities/lg-chem-ltd
+Samsung Biologics Co Ltd 207940 /equities/samsung-biologics-co-ltd
+SK Holdings Co Ltd 034730 /equities/sk-c-c
+아모레퍼시픽 090430 /equities/amorepacific
+LG생활건강 051900 /equities/lg-household---healthcare
+KT&G 033780 /equities/kt-g-corp
+기아자동차 000270 /equities/kia-motors
+SK이노베이션 096770 /equities/sk-innovation
+Samsung SDS Co Ltd 018260 /equities/samsung-sds-co-ltd
+Samsung Fire & Marine Insurance 000810 /equities/samsung-fire---marine-insurance
+Celltrion Inc 068270 /equities/celltrion-inc
+하나금융지주 086790 /equities/hana-financial
+Netmarble Games Corp 251270 /equities/netmarble-games-corp
+LG디스플레이 034220 /equities/lg-display
+LG 003550 /equities/lg-corp
+LG전자 066570 /equities/lg-electronics-inc
+Woori Bank 000030 /equities/woori-bank
+삼성SDI 006400 /equities/samsung-sdi
+롯데케미칼 011170 /equities/lotte-chemical-corp
+S-Oil 010950 /equities/s-oil-corp
+S-Oil Corp Pref 010955 /equities/s-oil-corp-pref
+아모레퍼시픽그룹 002790 /equities/amore-group
+현대중공업 009540 /equities/hyundai-heavy-industries
+롯데쇼핑 023530 /equities/lotte-shopping
+KT 030200 /equities/kt-corporation
+엔씨소프트 036570 /equities/ncsoft-corp
+고려아연 010130 /equities/korea-zinc-inc
+현대제철 004020 /equities/hyundai-steel
+한국타이어 161390 /equities/hankook-tire
+기업은행 024110 /equities/industrial-bank-of-korea
+코웨이 021240 /equities/coway
+삼성전기 009150 /equities/samsung-electro-mechanics
+강원랜드 035250 /equities/kangwon-land
+Mirae Asset Daewoo Securities Co Ltd 006800 /equities/daewoo-securities
+Kakao Corp 035720 /equities/kakao-corp
+LG유플러스 032640 /equities/lg-uplus
+GS 078930 /equities/gs-holdings
+이마트 139480 /equities/e-mart
+한화생명 088350 /equities/hanwha-life
+한국항공우주 047810 /equities/korea-aerospac
+CJ 001040 /equities/cj-corp
+현대글로비스 086280 /equities/hyundai-glovis
+효성 004800 /equities/hyosung
+Hanon Systems 018880 /equities/halla-visteon-climate-control
+한미사이언스 008930 /equities/hanmi-science
+한화케미칼 009830 /equities/hanwhachem
+Hanwha Chemical Corp Pref 009835 /equities/hanwha-chemical-corp-pref
+Hyundai Engineering & Construction 000720 /equities/hyundai-engineering---construction
+동부화재해상보험 005830 /equities/dongbu-insurance
+Hyundai Robotics Co Ltd 267250 /equities/hyundai-robotics-co-ltd
+Bgf Retail 027410 /equities/bgf-retail
+CJ제일제당 097950 /equities/cj-cheiljedang
+삼성중공업 010140 /equities/samsung-heavy-industries
+한국가스공사 036460 /equities/kogas
+삼성카드 029780 /equities/samsung-card
+KCC 002380 /equities/kcc
+한샘 009240 /equities/hanssem
+한미약품 128940 /equities/hanmi-pharm-co-ltd
+Woori Investment & Securities 005940 /equities/woori-investment---securities
+CJ대한통운 000120 /equities/cj-korea-express
+Korea Investment Holdings Co 071050 /equities/korea-investment-holdings-co
+GS리테일 007070 /equities/gs-retail
+현대해상 001450 /equities/hyundai-mar-fi
+LG이노텍 011070 /equities/lg-innotek-co-ltd
+에스원 012750 /equities/s-1-corp
+현대산업개발 012630 /equities/hyundai-development-co
+삼성증권 016360 /equities/samsung-securities
+BNK Financial Group Inc 138930 /equities/bs-financial-group
+한화 000880 /equities/hanwha
+Doosan Bobcat Inc 241560 /equities/doosan-bobcat-inc
+대한항공 003490 /equities/korean-air-lines-co
+Medy-Tox Inc 086900 /equities/medy-tox-inc
+Daewoo Engineering & Construction 047040 /equities/daewoo-engineering---construction
+대림산업 000210 /equities/daelim-ind
+CJ E&M Corp 130960 /equities/cj-em-corp
+Dongsuh 026960 /equities/dongsuh
+메리츠종금증권 008560 /equities/meritz-sec
+ING Life Insurance Korea Ltd 079440 /equities/ing-life-insurance-korea-ltd
+유한양행 000100 /equities/yuhan
+STX팬오션 028670 /equities/stx-pan-ocean
+맥쿼리한국인프라투융자회사 088980 /equities/macq-kor-infr
+두산 000150 /equities/doosan
+롯데제과 004990 /equities/lotte-confectionery
+Posco Daewoo Corp 047050 /equities/daewoo-international-corp
+오뚜기 007310 /equities/ottogi
+현대백화점 069960 /equities/hyundai-department
+LS 006260 /equities/ls-corp
+금호석유화학 011780 /equities/kumho-petro-chemical
+Hanwha Techwin Co Ltd 012450 /equities/samsung-techwin
+삼성엔지니어링 028050 /equities/samsung-engineering
+신세계 004170 /equities/shinsegae
+메리츠화재 000060 /equities/meritz-fire-in
+Mando Corp 204320 /equities/mando-corp
+두산중공업 034020 /equities/doosan-heavy-ind.---const.
+GS Engineering & Construction 006360 /equities/gs-engineering---construction
+Loen Entertainment Inc 016170 /equities/loen-entertainment-inc
+영풍 000670 /equities/youngpoong
+KB Insurance 002550 /equities/lig-insurance
+호텔신라 008770 /equities/hotel-shilla
+제일기획 030000 /equities/cheil-worldwide
+롯데칠성음료 005300 /equities/lotte-chilsung-beverage
+OCI 010060 /equities/oci-co-ltd
+녹십자 006280 /equities/gc-corp
+현대미포조선 010620 /equities/hyundai-mipo-dockyard
+메리츠금융지주 138040 /equities/meritz-financi
+한국타이어월드와이드 000240 /equities/hankook-tire-worldwide
+한전KPS 051600 /equities/kepco-plant-s-
+키움증권 039490 /equities/kiwoom
+영진약품 003520 /equities/young-jin-phar
+Komipharm International Co Ltd 041960 /equities/komipharm-international-co-ltd
+SK Materials Co Ltd 036490 /equities/sk-materials-co-ltd
+농심 004370 /equities/nongshim
+Hugel Inc 145020 /equities/hugel-inc
+DGB금융지주 139130 /equities/dgb-financial
+현대위아 011210 /equities/hyundai-wia
+코오롱인더스트리 120110 /equities/kolon-industries-inc
+현대그린푸드 005440 /equities/hd-greenfood
+두산인프라코어 042670 /equities/dsinfra
+Hyundai-Rotem 064350 /equities/hyundai-rotem
+ViroMed Co Ltd 084990 /equities/viromed-co-ltd
+현대상선 011200 /equities/hyundai-merchant-marine
+SK케미칼 006120 /equities/sk-chemicals-co
+녹십자홀딩스 005250 /equities/green-cross
+LS산전 010120 /equities/ls-industrial-systems
+하이트진로 000080 /equities/hite-jinro
+동양생명 082640 /equities/tongyang-life
+LIG Nex1 Co Ltd 079550 /equities/lig-nex1-co-ltd
+Korea Petro Chemical Ind 006650 /equities/kpic
+SK네트웍스 001740 /equities/sk-networks-co-ltd
+현대홈쇼핑 057050 /equities/hd-home-shoppi
+롯데하이마트 071840 /equities/lotte-himart
+NHN엔터테인먼트 181710 /equities/nhn-entertain
+CJ CGV 079160 /equities/cj-cgv
+Com2uS Corp 078340 /equities/com2us-corp
+SPC Samlip Co Ltd 005610 /equities/samlip-foods
+SillaJen Inc 215600 /equities/sillajen-inc
+영원무역 111770 /equities/youngone
+현대엘리베이터 017800 /equities/hyundai-elevator
+GS Home Shopping Inc 028150 /equities/gs-home-shopping-inc
+한진칼 180640 /equities/hanjinkal
+한국콜마 161890 /equities/korea-kolmar
+코리안리재보험 003690 /equities/korean-reinsu
+동국제강 001230 /equities/dongkuk-steel-mill-co-ltd
+쌍용양회공업 003410 /equities/ssangyong-cement
+SFA Engineering Corp 056190 /equities/sfa-engineering-corp
+Cuckoo Electr 192400 /equities/cuckoo-electr
+동원시스템즈 014820 /equities/dongwon-system
+그랜드코리아레저 - GKL 114090 /equities/gkl
+Hyundai Construction Equipment Co Ltd 267270 /equities/hyundai-construction-equipment-co
+일진머티리얼즈 020150 /equities/iljin-materials
+아이에스동서 010780 /equities/is-dongseo
+SKC 011790 /equities/skc
+넥센타이어 002350 /equities/nexen-tire
+Kolon Life Science Inc 102940 /equities/kolon-life-science-inc
+Innocean Worldwide Inc 214320 /equities/innocean-worldwide-inc
+금호타이어 073240 /equities/kumho-tire
+풍산 103140 /equities/poongsan
+Wonik IPS Co Ltd 240810 /equities/wonik-ips-co-ltd
+Paradise Co Ltd 034230 /equities/paradise-co-ltd
+태광산업 003240 /equities/taekwang-ind
+Seoul Semiconductor Co Ltd 046890 /equities/seoul-semiconductor-co-ltd
+Soulbrain Co Ltd 036830 /equities/soulbrain-co-ltd
+아시아나항공 020560 /equities/asiana-airline
+LG상사 001120 /equities/lg-international-corp
+대한전선 001440 /equities/taihan-electric-wire-co-ltd
+Chong Kun Dang Pharmaceutical 185750 /equities/chongkundang-(ks)
+CJ O Shopping Co Ltd 035760 /equities/cj-o-shopping-co-ltd
+Hyundai Electric & Energy Systems Co Ltd 267260 /equities/hyundai-electric-energy-systems
+Posco ICT Co Ltd 022100 /equities/posco-ict-co-ltd
+Toptec Co Ltd 108230 /equities/toptec-co-ltd
+DoubleU Games Co Ltd 192080 /equities/doubleu-games-co-ltd
+대신증권 003540 /equities/daishin-sec
+Cosmax Inc 192820 /equities/cosmax-inc
+세아베스틸 001430 /equities/seah-bestee
+삼양사 145990 /equities/samyang-cor
+휴켐스 069260 /equities/huchems
+SK가스 018670 /equities/sk-gas
+LG하우시스 108670 /equities/lg-hausys-ltd
+동원산업 006040 /equities/dongwon-ind
+한세실업 105630 /equities/hansae-co
+삼양홀딩스 000070 /equities/samyang-holdings
+Lotte Fine Chemical Co Ltd 004000 /equities/samsung-fine-chemicals
+EO Technics Co Ltd 039030 /equities/eo-technics-co-ltd
+JB금융지주 175330 /equities/jb-financial
+제일약품 002620 /equities/jeil-pharm
+Jeju Air Co Ltd 089590 /equities/jeju-air-co-ltd
+하나투어 039130 /equities/hana-tour
+후성 093370 /equities/foosung
+대웅제약 069620 /equities/daewoong-pharma
+코오롱 002020 /equities/kolon-corp
+휠라코리아 081660 /equities/fila-korea
+동부하이텍 000990 /equities/dongbu-hitek
+Seegene Inc 096530 /equities/seegene-inc
+더존비즈온 012510 /equities/duzonbizon
+부광약품 003000 /equities/bukwang-pharm
+다우기술 023590 /equities/daou-tech
+AK 홀딩스 006840 /equities/ak-holdings
+Its Skin Co Ltd 226320 /equities/its-skin-co-ltd
+JW중외제약 001060 /equities/jw-pharmac
+LF Corp 093050 /equities/lg-fashion
+Posco Chemtech Co Ltd 003670 /equities/posco-chemtech-co-ltd
+쌍용자동차 003620 /equities/ssangyong-motor
+Toray Chemical Korea Inc 008000 /equities/woongjin-chemical
+대상 001680 /equities/daesang
+Korea Asset In Trust Co Ltd 123890 /equities/korea-asset-in-trust-co-ltd
+한일시멘트 003300 /equities/hanil-cement-co-ltd
+신영증권 001720 /equities/shinyoung-sec
+대한해운 005880 /equities/korea-line
+한국지역난방공사 071320 /equities/kr-district-he
+동원F&B 049770 /equities/dongwon-f---b
+Korea Real Estate Investment & Trust Co Ltd 034830 /equities/korea-real-estate-investment-trus
+Genexine Inc 095700 /equities/genexine-inc
+롯데푸드 002270 /equities/lotte-food
+Yuanta Sec Kor 003470 /equities/tongyang-sec
+한섬 020000 /equities/handsome
+Osstem Implant Co Ltd 048260 /equities/osstem-implant-co-ltd
+Koh Young Technology Inc 098460 /equities/koh-young-technology-inc
+한솔케미칼 014680 /equities/hansol-chemica
+케이씨텍 029460 /equities/k-c-tech
+영원무역홀딩스 009970 /equities/youngone-holdi
+한화손해보험 000370 /equities/hanwha-general
+대교 019680 /equities/daekyo
+동아쏘시오홀딩스 000640 /equities/donga-socio-holdings
+Interflex Co Ltd 051370 /equities/interflex-co-ltd
+케이티스카이라이프 053210 /equities/kt-skylife
+락앤락 115390 /equities/lock-lock-co
+KEPCO Engineering & Construction 052690 /equities/kepco-engineering---construction
+대웅 003090 /equities/daewoong
+Leeno Industrial Inc 058470 /equities/leeno-industrial-inc
+Dongjin Semichem Co Ltd 005290 /equities/dongjin-semichem-co-ltd
+Mirae Asset Life Insurance Co Ltd 085620 /equities/mirae-asset-life-insurance-co-ltd
+ST Pharm Co Ltd 237690 /equities/st-pharm-co-ltd
+일양약품 007570 /equities/ilyang-pharm
+Webzen Inc 069080 /equities/webzen-inc
+한국단자공업 025540 /equities/korea-electric-terminal
+동아에스티 170900 /equities/dong-a-st
+Celltrion Pharm Inc 068760 /equities/celltrion-pharm-inc
+S&T모티브 064960 /equities/s-t-motiv-co-ltd
+에스엘 005850 /equities/sl-corp
+Caregen Co Ltd 214370 /equities/caregen-co-ltd
+고려제강 002240 /equities/kis-wire
+Jusung Engineering Co Ltd 036930 /equities/jusung-engineering-co-ltd
+CJ헬로비전 037560 /equities/cj-hellovision
+Kwangju Bank 192530 /equities/kwangju-bank
+오리온 001800 /equities/orion
+SKC Kolon PI Inc 178920 /equities/skc-kolon-pi-inc
+Halla Holdings Corp 060980 /equities/mando
+태영건설 009410 /equities/taeyoung-const
+Advanced Process Systems Corp 265520 /equities/advanced-process-systems
+NICE 034310 /equities/nice
+빙그레 005180 /equities/binggrae
+한화투자증권 003530 /equities/hw-inv-sec
+무학 033920 /equities/muhak
+KB Capital Co Ltd 021960 /equities/woori-financia
+한올바이오파마 009420 /equities/hanall-biopharma
+동아타이어공업 007340 /equities/dongah-tire
+Wonik Holdings Co Ltd 030530 /equities/wonik-holdings-co-ltd
+Chabiotech Co Ltd 085660 /equities/chabiotech-co-ltd
+Duk San Neolux Co Ltd 213420 /equities/duk-san-neolux-co-ltd
+Seobu T&D Co Ltd 006730 /equities/seobu-td-co-ltd
+Yong Pyong Resort Corp 070960 /equities/yong-pyong-resort-corp
+세아홀딩스 058650 /equities/seah-holdings
+Innox Corp 088390 /equities/innox-corp
+KolmarBNH Co Ltd 200130 /equities/kolmarbnh-co-ltd
+세아제강 003030 /equities/seah-steel-corp
+남양유업 003920 /equities/namyang-dairy
+Clio Cosmetics Co Ltd 237880 /equities/clio-cosmetics-co-ltd
+Tes Co Ltd 095610 /equities/tes-co-ltd
+Tokai Carbon Korea Co Ltd 064760 /equities/tokai-carbon-korea-co-ltd
+YG Entertainment Inc 122870 /equities/yg-entertainment-inc
+NS Shopping Co Ltd 138250 /equities/ns-shopping-co-ltd
+SK D&D Co Ltd 210980 /equities/sk-d-d-co-ltd
+Silicon Works Co Ltd 108320 /equities/silicon-works-co-ltd
+JW홀딩스 096760 /equities/jw-holdings
+S.M. Entertainment Co 041510 /equities/sm-entertainment-co
+신도리코 029530 /equities/sindoh
+신세계푸드 031440 /equities/shinsegae-food
+Modetour Network Inc 080160 /equities/modetour-network-inc
+Meere Company Inc 049950 /equities/meere-company-inc
+Dentium 145720 /equities/dentium
+대덕전자 008060 /equities/daeduck-electronics-co-ltd
+WeMade Entertainment Co Ltd 112040 /equities/wemade-entertainment-co-ltd
+Dongkook Pharmaceutical Co Ltd 086450 /equities/dongkook-pharmaceutical-co-ltd
+Sebang Global Battery Co Ltd 004490 /equities/global---yuasa-battery
+동양 001520 /equities/tongyang
+Haitai Confectionery and Foods Co Ltd 101530 /equities/haitai-confectionery-and-foods-co-l
+Maeil Dairies Co Ltd 267980 /equities/maeil-dairies-co-ltd
+Vieworks Co Ltd 100120 /equities/vieworks-co-ltd
+L&F Co Ltd 066970 /equities/lf-co-ltd
+BH Co Ltd 090460 /equities/bh-co-ltd
+한미반도체 042700 /equities/hanmi-semicon
+Jenax Inc 065620 /equities/jenax-inc
+Dongwha Enterprise Co Ltd 025900 /equities/dongwha-enterprise-co-ltd
+농심홀딩스 072710 /equities/nongshim-holdi
+한국쉘석유 002960 /equities/hankook-shell-oil
+Dio Corp 039840 /equities/dio-corp
+화승인더스트리 006060 /equities/hs-ind
+Emerson Pacific Inc 025980 /equities/emerson-pacific-inc
+Ahnlab Inc 053800 /equities/ahnlab-inc
+송원산업 004430 /equities/songwon-industrial
+iNtRON Biotechnology Inc 048530 /equities/intron-biotechnology-inc
+풀무원홀딩스 017810 /equities/pulmuone-holdi
+SK증권 001510 /equities/sk-securities
+HLB Inc 028300 /equities/hlb-inc
+금호산업 002990 /equities/kumho-ind
+한국콜마홀딩스 024720 /equities/kolmar-holding
+Sejong Telecom Inc 036630 /equities/sejong-telecom-inc
+SBS 034120 /equities/seoul-broadcasting-system
+Partron Co Ltd 091700 /equities/partron-co-ltd
+애경유화 161000 /equities/ak-petrochemic
+Nasmedia Co Ltd 089600 /equities/nasmedia-co-ltd
+남해화학 025860 /equities/namhae-chemical
+Eugene Corp 023410 /equities/eugene-corp
+Nice Information Service Co Ltd 030190 /equities/nice-information-service-co-ltd
+Taewoong Co Ltd 044490 /equities/taewoong-co-ltd
+삼천리 004690 /equities/samchully
+AtlasBX Co Ltd 023890 /equities/atlasbx-co-ltd
+경동나비엔 009450 /equities/kyng-dng-navie
+현대에이치씨엔 126560 /equities/hyundai-hcn
+CJ Freshway Corp 051500 /equities/cj-freshway-corp
+Medipost Co Ltd 078160 /equities/medipost-co-ltd
+Wonik Materials Co Ltd 104830 /equities/wonik-materials-co-ltd
+신세계인터내셔날 031430 /equities/shinsegae-inte
+Ecopro Co Ltd 086520 /equities/ecopro-co-ltd
+넥센 005720 /equities/nexen
+한진중공업 097230 /equities/hanjin-heavy-ind.---const.
+팜스코 036580 /equities/farmsco
+Hwaseung Enterprise Co Ltd 241590 /equities/hwaseung-enterprise-co-ltd
+삼진제약 005500 /equities/samjin-pharm
+Dongwon Development Co Ltd 013120 /equities/dongwon-development-co-ltd
+아이마켓코리아 122900 /equities/imarketkorea
+아주캐피탈 033660 /equities/aju-capital
+CS Wind Corp 112610 /equities/cs-wind-corp
+eBEST Investment & Securities Co Ltd 078020 /equities/ebest-investment-securities-co-lt
+Korea Information & Communications 025770 /equities/korea-information-communications
+경방 000050 /equities/kyungbang
+광동제약 009290 /equities/kwangdong-phar
+Hansol Paper Co Ltd 213500 /equities/hansol-paper-co-ltd
+Sungwoo Hitech Co Ltd 015750 /equities/sungwoo-hitech-co-ltd
+Telcon Inc 200230 /equities/telcon-inc
+E1 017940 /equities/e1
+Daou Data Corp 032190 /equities/daou-data-corp
+에이블씨엔씨 078520 /equities/able-c-c
+유니드 014830 /equities/unid
+보령제약 003850 /equities/boryung-pharm
+풍산홀딩스 005810 /equities/poongsan-holdi
+F&F 007700 /equities/f-f
+Texcell NetCom Co Ltd 038540 /equities/texcell-netcom-co-ltd
+Nutri Biotech Co Ltd 222040 /equities/nutri-biotech-co-ltd
+부산도시가스 015350 /equities/busan-city-gas
+Value Added Technology Co Ltd 043150 /equities/value-added-technology-co-ltd
+STX 011810 /equities/stx
+Jcontentree Corp 036420 /equities/jcontentree-corp
+한세예스24홀딩스 016450 /equities/hansae-yes24
+Hyundai Livart Furniture Co Ltd 079430 /equities/livart-furnitu
+Dawonsys Co Ltd 068240 /equities/dawonsys-co-ltd
+한국철강 104700 /equities/kisco
+EugeneTechnology Co Ltd 084370 /equities/eugenetechnology-co-ltd
+서울도시가스 017390 /equities/seoul-city-gas
+Tongyang Cement & Energy Corp 038500 /equities/tongyang-cement-energy-corp
+SBS미디어홀딩스 101060 /equities/sbs-media-hold
+한진 002320 /equities/hanjin-trans
+G-treeBNT Co Ltd 115450 /equities/g-treebnt-co-ltd
+HB Technology Co Ltd 078150 /equities/hb-technology-co-ltd
+Gamevil Inc 063080 /equities/gamevil-inc
+대덕GDS 004130 /equities/daeduck-gds
+교보증권 030610 /equities/kyobo-securiti
+서흥캅셀 008490 /equities/suheung-capsul
+AceBed 003800 /equities/acebed
+Crystal Genomics Inc 083790 /equities/crystal-genomics-inc
+광주신세계 037710 /equities/gwangjushinseg
+Hancom Inc 030520 /equities/hancom-inc
+Korea Autoglass Corp 152330 /equities/korea-autoglass-corp
+롯데손해보험 000400 /equities/lotte-non-life
+Dae Hwa Pharm Co Ltd 067080 /equities/dae-hwa-pharm-co-ltd
+대상홀딩스 084690 /equities/daesang-holdin
+Showbox Corp 086980 /equities/showbox-corp
+Green Cross Cell Corp 031390 /equities/green-cross-cell-corp
+eTEC E&C Ltd 016250 /equities/etec-ec-ltd
+InBody Co Ltd 041830 /equities/inbody-co-ltd
+코리아써키트 007810 /equities/korea-circuit
+Il Dong Pharmaceutical Co Ltd 249420 /equities/il-dong-pharmaceutical-co-ltd
+Tera Semicon Co Ltd 123100 /equities/tera-semicon-co-ltd
+ATGen 182400 /equities/atgen
+삼양식품 003230 /equities/sam-yang-foods
+Interojo Co Ltd 119610 /equities/interojo-co-ltd
+PSK Inc 031980 /equities/psk-inc
+Han Il E-Wha Co Ltd 200880 /equities/hanilewha
+사조산업 007160 /equities/sajo-ind
+삼익THK 004380 /equities/samick-thk
+Amicogen Inc 092040 /equities/amicogen-inc
+흥국화재 000540 /equities/heungkuk-f-m-i
+Binex Co Ltd 053030 /equities/binex-co-ltd
+Dongkuk Structures & Construction Co Ltd 100130 /equities/dongkuk-structures-construction-c
+유진투자증권 001200 /equities/eugene-inv-sec
+자화전자 033240 /equities/jahwa-electron
+CMG Pharmaceutical Co Ltd 058820 /equities/cmg-pharmaceutical-co-ltd
+Harim Holdings Co Ltd 024660 /equities/harim-holdings-co-ltd
+퍼시스 016800 /equities/fursys
+신성솔라에너지 011930 /equities/shinsung-se
+Huons Global Co Ltd 084110 /equities/huons-global-co-ltd
+롯데관광개발 032350 /equities/lotte-tour-dev
+이연제약 102460 /equities/reyon-pharm
+I Sens Inc 099190 /equities/i-sens-inc
+SFA Semicon Co Ltd 036540 /equities/sfa-semicon-co-ltd
+GemVax & KAEL Co Ltd 082270 /equities/gemvax-kael-co-ltd
+Boditech Med Inc 206640 /equities/boditech-med-inc
+Easy Bio Inc 035810 /equities/easy-bio-inc
+Pharma Reaserch Products Co Ltd 214450 /equities/pharma-reaserch-products-co-ltd
+Cowell Fashion Co Ltd 033290 /equities/cowell-fashion-co-ltd
+LegoChem Biosciences Inc 141080 /equities/legochem-biosciences-inc
+종근당 001630 /equities/chongkundang
+Golfzon Co Ltd 215000 /equities/golfzon-co-ltd
+HMC투자증권 001500 /equities/hmc-invest-sec
+진흥기업 002780 /equities/chin-hung-int'
+Cell Biotech Co Ltd 049960 /equities/cell-biotech-co-ltd
+조선내화 000480 /equities/chosun-refractories-co-ltd
+한솔테크닉스 004710 /equities/hansol-technics
+Cosmecca Korea Co Ltd 241710 /equities/cosmecca-korea-co-ltd
+Yonwoo Co Ltd 115960 /equities/yonwoo-co-ltd
+우리종합금융 010050 /equities/woori-investment
+대원제약 003220 /equities/daewon-pharm
+Huons Co Ltd 243070 /equities/huons-co-ltd
+Jayjun Co Ltd 025620 /equities/shinwoo
+Interpark Holdings Corp 035080 /equities/interpark-holdings-corp
+AJ Networks Co Ltd 095570 /equities/aj-networks-co-ltd
+신풍제약 019170 /equities/shinpoong-phar
+일성신약 003120 /equities/ilsung-pharm
+HY-Lok Corp 013030 /equities/hy-lok-corp
+STX엔진 077970 /equities/stx-engine
+율촌화학 008730 /equities/youlchon-chem
+Tonymoly Co Ltd 214420 /equities/tonymoly-co-ltd
+Pati Games Corp 194510 /equities/pati-games-corp
+Kanglim Co Ltd 014200 /equities/kanglim-co-ltd
+JVM Co Ltd 054950 /equities/jvm-co-ltd
+환인제약 016580 /equities/whanin-pharm
+Interpark Corp 108790 /equities/interpark-corp
+InnoChips Technology 080420 /equities/innochips-technology
+한국유리 002000 /equities/hankuk-glass
+Sam Chun Dang Pharm Co Ltd 000250 /equities/sam-chun-dang-pharm-co-ltd
+삼호 001880 /equities/samho-intl
+KG Inicis Co Ltd 035600 /equities/kg-inicis-co-ltd
+Alvogen Korea Co Ltd 002250 /equities/keun-wha-pharm
+한독 002390 /equities/handok
+Miwon Specialty Chemical Co Ltd 268280 /equities/miwon-specialty-chemical-co-ltd
+Peptron Inc 087010 /equities/peptron-inc
+Aluko Co Ltd 001780 /equities/dongyang-gangc
+대한제강 084010 /equities/daehan-steel
+모토닉 009680 /equities/motonic
+SM Core Inc 007820 /equities/sm-core-inc
+세방 004360 /equities/sebang
+현대시멘트 006390 /equities/hyundai-cement
+동부제철 016380 /equities/dongbu-steel
+부국증권 001270 /equities/bookook-sec
+삼영무역 002810 /equities/sam-yung-tradi
+선진 136490 /equities/sunjin
+WiSoL Co Ltd 122990 /equities/wisol-co-ltd
+Rayence Co Ltd 228850 /equities/rayence-co-ltd
+Me 2 On Co Ltd 201490 /equities/me-2-on-co-ltd
+동부건설 005960 /equities/dongbu
+KPX케미칼 025000 /equities/kpx-chemical
+ISC Co Ltd 095340 /equities/isc-co-ltd
+유나이티드제약 033270 /equities/united-pharm
+대한제분 001130 /equities/daehan-flour-mills-co-ltd
+Wonik QnC Corp 074600 /equities/wonik-qnc-corp
+Kyongbo Pharmaceutical Co Ltd 214390 /equities/kyongbo-pharmaceutical-co-ltd
+슈넬생명과학 003060 /equities/schnell-biopha
+국도화학 007690 /equities/kukdo-chemical
+Neowiz Games Corp 095660 /equities/neowiz-games-corp
+Jastech Ltd 090470 /equities/jastech-ltd
+Sung Kwang Bend Co Ltd 014620 /equities/sung-kwang-bend-co-ltd
+Haesung DS Co Ltd 195870 /equities/haesung-ds-co-ltd
+Woory Industrial Co Ltd 215360 /equities/woory-industrial-co-ltd
+S&T중공업 003570 /equities/s-t-dynamics
+Lutronic Corp 085370 /equities/lutronic-corp
+Lutronic Corp Pref 08537M /equities/lutronic-corp-pref
+JW Shinyak Corp 067290 /equities/jw-shinyak-corp
+두산엔진 082740 /equities/doosan-engine
+Philoptics Co Ltd 161580 /equities/philoptics-co-ltd
+Hansol Holdings Co Ltd 004150 /equities/hansol-paper
+Homecast Co Ltd 064240 /equities/homecast-co-ltd
+Dongsung Corporation 102260 /equities/dongsung-hold
+Kolao Holdings 900140 /equities/kolao-holdings
+Pyeong Hwa Automotive Co Ltd 043370 /equities/pyeong-hwa-automotive-co-ltd
+SKC Solmics Co Ltd 057500 /equities/skc-solmics-co-ltd
+Viatron Technologies Inc 141000 /equities/viatron-technologies-inc
+Tego Science Inc 191420 /equities/tego-science-inc
+IHQ 003560 /equities/ihq
+YG-1 Co Ltd 019210 /equities/yg-1-co-ltd
+삼광글라스 005090 /equities/samkwang-glass
+무림P&P 009580 /equities/moorim-p-p-co-ltd
+Curexo Inc 060280 /equities/curexo-inc
+SD Biotechnologies Co Ltd 217480 /equities/sd-biotechnologies-co-ltd
+ENF Technology Co Ltd 102710 /equities/enf-technology-co-ltd
+JYP Entertainment Corp 035900 /equities/jyp-entertainment-corp
+일신방직 003200 /equities/ilshin-spinnin
+한국카본 017960 /equities/hankuk-carbon
+Redrover Co Ltd 060300 /equities/redrover-co-ltd
+웅진씽크빅 095720 /equities/wngjin-thinkbi
+아세아시멘트 183190 /equities/asiacement
+NH Special Purpose Acquisition 5 Co Ltd 215790 /equities/nh-special-purpose-acquisition-5-co
+AeroSpace Technology of Korea Inc 067390 /equities/aerospace-technology-of-korea-inc
+대원강업 000430 /equities/daewonkangup
+Leaders Cosmetics Co Ltd 016100 /equities/leaders-cosmetics-co-ltd
+Kisco Holdings 001940 /equities/kisco-holdings
+Humedix Co Ltd 200670 /equities/humedix-co-ltd
+KPX홀딩스 092230 /equities/kpx-holdings
+Harim Co Ltd 136480 /equities/harim-co-ltd
+TK Corp 023160 /equities/tk-corp
+KMW Co Ltd 032500 /equities/kmw-co-ltd
+G-Smatt Global Co Ltd 114570 /equities/g-smatt-global-co-ltd
+일진홀딩스 015860 /equities/iljin-holdings
+NHN KCP Corp 060250 /equities/nhn-kcp-corp
+Humax Co Ltd 115160 /equities/humax-co-ltd
+삼영전자 005680 /equities/samyoung-elec
+Nexon GT Co Ltd 041140 /equities/nexon-gt-co-ltd
+티웨이홀딩스 004870 /equities/tway-holdings
+코오롱플라스틱 138490 /equities/kolon-plastics
+하이트진로홀딩스 000140 /equities/hitejinro-holdings
+코스맥스 044820 /equities/cosmax
+BYC 001460 /equities/byc
+UniTest Inc 086390 /equities/unitest-inc
+현대상사 011760 /equities/hyundai-corp
+Daemyung Corporation Co Ltd 007720 /equities/daemyung-corporation-co-ltd
+Jw Life Science Corp 234080 /equities/jw-life-science-corp
+AJ 렌터카 068400 /equities/aj-rent-a-car
+Green Cross Lab Cell Corp 144510 /equities/green-cross-lab-cell-corp
+벽산 007210 /equities/byucksan
+Seohan 011370 /equities/seohan
+S&T홀딩스 036530 /equities/s-t-holdings
+한국화장품 123690 /equities/hankook-cosmet
+Amotech Co Ltd 052710 /equities/amotech-co-ltd
+휴비스 079980 /equities/huvis
+SY Panel Co Ltd 109610 /equities/sy-panel-co-ltd
+GS 글로벌 001250 /equities/gs-global
+Danal Co Ltd 064260 /equities/danal-co-ltd
+Nice Information & Telecommunication Inc 036800 /equities/nice-information-telecommunicatio
+Nature Cell Co Ltd 007390 /equities/nature-cell-co-ltd
+YeaRimDang Publishing Co Ltd 036000 /equities/yearimdang-publishing-co-ltd
+Insun Environmental New Technology Co 060150 /equities/insun-environmental-new-technology
+Kangnam Jevisco Co Ltd 000860 /equities/kunsul-chemica
+I Controls 039570 /equities/i-controls
+Curocom Co Ltd 040350 /equities/curocom-co-ltd
+Bioland Ltd 052260 /equities/bioland-ltd
+조광피혁 004700 /equities/cho-kwang-leat
+KT Music Corp 043610 /equities/kt-music-corp
+아세아 002030 /equities/asia-cement
+Dongkuk Industries Co Ltd 005160 /equities/dongkuk-industries-co-ltd
+NPC 004250 /equities/npc
+Kyungdong Pharm 011040 /equities/kyungdong-pharm
+대한제당 001790 /equities/ts
+Macrogen Inc 038290 /equities/macrogen-inc
+Coreana Cosmetics Co Ltd 027050 /equities/coreana-cosmetics-co-ltd
+파미셀 005690 /equities/pharmicell
+Dong A Eltek Co Ltd 088130 /equities/dong-a-eltek-co-ltd
+AfreecaTV Co Ltd 067160 /equities/afreecatv-co-ltd
+JinroDistillers 018120 /equities/jinrodistillers
+LS네트웍스 000680 /equities/ls-networks
+Finetex EnE Inc 065160 /equities/finetex-ene-inc
+STX중공업 071970 /equities/stx-heavy-indu
+NeoPharm Co Ltd 092730 /equities/neopharm-co-ltd
+Crown Confectionery Co Ltd 264900 /equities/crown-confectionery-co-ltd
+Great Rich Technologies Ltd 900290 /equities/great-rich-technologies-ltd
+KT Hitel Co Ltd 036030 /equities/kt-hitel-co-ltd
+New Power Plasma Co Ltd 144960 /equities/new-power-plasma-co-ltd
+Spigen Korea Co Ltd 192440 /equities/spigen-korea-co-ltd
+Simmtech Co Ltd 222800 /equities/simmtech-co-ltd
+Seoyeon Co Ltd 007860 /equities/hanil-e-wha
+Naturalendo Tech Co Ltd 168330 /equities/naturalendo-tech-co-ltd
+크라운제과 005740 /equities/crown-confec
+Wave Electronics Co Ltd 095270 /equities/wave-electronics-co-ltd
+이수화학 005950 /equities/isu-chemical-co-ltd
+현대EP 089470 /equities/hyundai-e-p
+아남전자 008700 /equities/anam-electroni
+포스코강판 058430 /equities/posco-c-c-stl
+Vitzrocell Co Ltd 082920 /equities/vitzrocell-co-ltd
+JS Corp 194370 /equities/js-corp
+Organic Tea Cosmetics Holdings Co Ltd 900300 /equities/organic-tea-cosmetics-holdings
+한국주철관 000970 /equities/korea-cast-pip
+SAMT Co Ltd 031330 /equities/samt-co-ltd
+신라교역 004970 /equities/silla
+Nepes Corp 033640 /equities/nepes-corp
+Next Entertainment World Co Ltd 160550 /equities/next-entertainment-world-co-ltd
+Next Eye Co Ltd 137940 /equities/next-eye-co-ltd
+Golfzon Yuwon Holdings Co Ltd 121440 /equities/golfzon-yuwon-holdings-co-ltd
+KTB투자증권 030210 /equities/ktb-invest-sec
+Seojin System Co Ltd 178320 /equities/seojin-system-co-ltd
+Hyundai IBT Co Ltd 048410 /equities/hyundai-ibt-co-ltd
+동화약품 000020 /equities/dongwha-pharm
+Nice Total Cash Management Co Ltd 063570 /equities/nice-total-cash-management-co-ltd
+Korea Environment Technology Co Ltd 029960 /equities/korea-environment-technology-co-ltd
+SG세계물산 004060 /equities/sg
+유화증권 003460 /equities/yuhwa-sec
+Nong Woo Bio Co Ltd 054050 /equities/nong-woo-bio-co-ltd
+ICD Co Ltd 040910 /equities/icd-co-ltd
+Lion Chemtech Co Ltd 171120 /equities/lion-chemtech-co-ltd
+Union Semiconductor Equipment Co Ltd 036200 /equities/union-semiconductor-equipment-co-lt
+예스코 015360 /equities/yesco
+BoKwang Industry Co Ltd 225530 /equities/bokwang-industry-co-ltd
+Techwing Inc 089030 /equities/techwing-inc
+Hanyang Eng Co Ltd 045100 /equities/hanyang-eng-co-ltd
+Saramin HR Co Ltd 143240 /equities/saramin-hr-co-ltd
+카프로 006380 /equities/capro
+Korea Ratings Corp 034950 /equities/korea-ratings-corp
+Minwise Co Ltd 214180 /equities/minwise-co-ltd
+KSS해운 044450 /equities/kss-line
+Heng Sheng Holding Group Ltd 900270 /equities/heng-sheng-holding-group-ltd
+Haimarrow Food Service Co Ltd 220630 /equities/ktb-special-purpose-acquisition-co
+DMS Co Ltd 068790 /equities/dms-co-ltd
+Seowonintech Co Ltd 093920 /equities/seowonintech-co-ltd
+Multicampus Corp 067280 /equities/multicampus-corp
+Unison Co Ltd 018000 /equities/unison-co-ltd
+두산건설 011160 /equities/doosan-eng-con
+TBH Global Co Ltd 084870 /equities/the-basic-house
+코오롱글로벌 003070 /equities/kolon-globalco
+MK Electron 033160 /equities/mk-electron
+백산 035150 /equities/baiksan
+Nexen Tech Corp 073070 /equities/nexen-tech-corp
+화승알앤에이 013520 /equities/hs-r-a
+Eusu Holdings 000700 /equities/hanjin-shipping-holdings
+Daelim C&S Co Ltd 004440 /equities/daelim-c-s-co-ltd
+Leadcorp Inc 012700 /equities/leadcorp-inc
+KG Mobilians Co Ltd 046440 /equities/kg-mobilians-co-ltd
+삼화콘덴서 001820 /equities/sam-hwa-capaci
+Geumhwa PSC Co Ltd 036190 /equities/geumhwa-psc-co-ltd
+Everdigm Corp 041440 /equities/everdigm-corp
+한신공영 004960 /equities/hanshin-const
+디아이씨 092200 /equities/dic
+Daishin Balance 2nd Special Purpose Acquisition Co Ltd 232140 /equities/daishin-balance-2nd-special-purpose
+TK Chemical Corp 104480 /equities/tk-chemical-corp
+Qurient Co Ltd 115180 /equities/qurient-co-ltd
+삼화페인트 000390 /equities/samhwa-paint
+일진디스플 020760 /equities/iljin-display
+Seohee Construction Co Ltd 035890 /equities/seohee-construction-co-ltd
+Agabang & Company 013990 /equities/agabang-company
+쌍방울 102280 /equities/sbw
+화신 010690 /equities/hwashin
+Nexturn Co Ltd 089140 /equities/nexturn-co-ltd
+성창기업지주 000180 /equities/sungchang-hold
+세이브존I&C 067830 /equities/savezone-i-c
+KH Vatec Co Ltd 060720 /equities/kh-vatec-co-ltd
+Optrontec Inc 082210 /equities/optrontec-inc
+Coson Co Ltd 069110 /equities/coson-co-ltd
+Mezzion Pharma Co Ltd 140410 /equities/mezzion-pharma-co-ltd
+BHI Co Ltd 083650 /equities/bhi-co-ltd
+현대비앤지스틸 004560 /equities/hyundai-bngste
+Crucialtec Co Ltd 114120 /equities/crucialtec-co-ltd
+KCC Engineering & Construction Co Ltd 021320 /equities/kcc-engineering-construction-co
+Systems Technology Inc 039440 /equities/systems-technology-inc
+미원에스씨 107590 /equities/msc
+Jinsung TEC 036890 /equities/jinsung-tec
+LS Cable & System Asia Ltd 229640 /equities/ls-cable-system-asia-ltd
+Kortek Corp 052330 /equities/kortek-corp
+Daehan New Pharm Co Ltd 054670 /equities/daehan-new-pharm-co-ltd
+LOTVacuum Co Ltd 083310 /equities/lotvacuum-co-ltd
+DaehanPharmaceutical 023910 /equities/daehanpharmaceutical
+모나리자 012690 /equities/monalisa
+HS Vital Co Ltd 204990 /equities/hs-vital-co-ltd
+오리엔트바이오 002630 /equities/orientbio
+Autech Corp 067170 /equities/autech-corp
+Tailim Packaging Co Ltd 011280 /equities/tai-lim-packag
+Intops Co Ltd 049070 /equities/intops-co-ltd
+깨끗한나라 004540 /equities/kleannara
+Sammok S-Form Co Ltd 018310 /equities/sammok-s-form-co-ltd
+Joy City Corp 067000 /equities/joy-city-corp
+유니퀘스트 077500 /equities/uniquest
+Duksan Hi Metal Co Ltd 077360 /equities/duksan-hi-metal-co-ltd
+노루홀딩스 000320 /equities/norooholdings
+유양디앤유 011690 /equities/yuyang-d-u
+DY Power Corp 210540 /equities/dy-power-corp
+Hanjin P&C Co Ltd 061460 /equities/hanjin-pc-co-ltd
+China Crystal New Material Holdings Co Ltd 900250 /equities/china-crystal-new-material-holdings
+Elcomtec Co Ltd 037950 /equities/elcomtec-co-ltd
+Longtu Korea Inc 060240 /equities/longtu-korea-inc
+화성산업 002460 /equities/hwa-sung-ind
+Sang-A Frontec Co Ltd 089980 /equities/sang-a-frontec-co-ltd
+Hands Corporation Ltd 143210 /equities/hands-corporation-ltd
+Advanced Nano Products Co Ltd 121600 /equities/advanced-nano-products-co-ltd
+흥아해운 003280 /equities/heung-a-shippi
+SM Culture & Contents Co Ltd 048550 /equities/sm-culture-contents-co-ltd
+NH Special Purpose Acquisition 9 Co Ltd 225570 /equities/nh-special-purpose-acquisition-9-co
+미원상사 002840 /equities/miwon-commerci
+KoMiCo Ltd 183300 /equities/komico-ltd
+세아특수강 019440 /equities/seah-spe-steel
+Oscotec Inc 039200 /equities/oscotec-inc
+Sekonix Co Ltd 053450 /equities/sekonix-co-ltd
+Dongyang Mechatronics Corp 013570 /equities/dongyang-mechatronics
+Bubang Co Ltd 014470 /equities/bubang-co-ltd
+Bluecom Co Ltd 033560 /equities/bluecom-co-ltd
+한화타임월드 027390 /equities/hanwha-timewor
+대동공업 000490 /equities/daedong-ind
+삼익악기 002450 /equities/samick-music-i
+Kim Parallel Oilfield Overseas Resources Development 168490 /equities/kim-parallel-oilfield-overseas-res
+효성ITX 094280 /equities/hyosung-itx
+SG Choongbang Co Ltd 001380 /equities/sg-choongnam-s
+DRB동일 004840 /equities/drb-holding
+Panagene Inc 046210 /equities/panagene-inc
+태평양물산 007980 /equities/pan-pacific
+금강공업 014280 /equities/kumkang-kind
+Alteogen Inc 196170 /equities/alteogen-inc
+SBS Contents Hub Co Ltd 046140 /equities/sbs-contents-hub-co-ltd
+디피씨 026890 /equities/dpc
+세원정공 021820 /equities/sewon-precisio
+Yest Co Ltd 122640 /equities/yest-co-ltd
+SundayToz Corp 123420 /equities/sundaytoz-corp
+Stcube 052020 /equities/stcube
+Korea Information Certificate Authority Inc 053300 /equities/korea-information-certificate-autho
+이수페타시스 007660 /equities/isupetasys
+성신양회 004980 /equities/sungshin-cemen
+Hanp Inc 066110 /equities/hanp-inc
+동일산업 004890 /equities/dongil-ind
+비상교육 100220 /equities/visang-educati
+GNCO Co Ltd 065060 /equities/gnco-co-ltd
+동부증권 016610 /equities/dongbu-sec
+IONES Co Ltd 114810 /equities/iones-co-ltd
+China Great Star International Ltd 900040 /equities/china-great-star-international-ltd
+Sempio Foods Co 248170 /equities/sempio-foods-co
+Lumens Co Ltd 038060 /equities/lumens-co-ltd
+Winix Inc 044340 /equities/winix-inc
+Zeus Co Ltd 079370 /equities/zeus-co-ltd
+진양홀딩스 100250 /equities/chinyang-hold
+세원셀론텍 091090 /equities/sewon-cellonte
+korea Alcohol Industrial 017890 /equities/korea-alcohol-industrial
+YMC Co Ltd 155650 /equities/ymc-co-ltd
+Mcnex Co Ltd 097520 /equities/mcnex-co-ltd
+세종공업 033530 /equities/sejong-industrial
+아세아제지 002310 /equities/asia-paper
+KR Motors Co Ltd 000040 /equities/s-t-motors
+퍼스텍 010820 /equities/firstec
+EM-Tech Co Ltd 091120 /equities/em-tech-co-ltd
+Theragen Etex Co Ltd 066700 /equities/theragen-etex-co-ltd
+조흥 002600 /equities/choheung
+Aminologics Co Ltd 074430 /equities/aminologics-co-ltd
+Kiwi Media Group Co Ltd 012170 /equities/keystone-globa
+Jeju Bank 006220 /equities/bank-of-che-ju
+Hojeon Ltd 111110 /equities/hojeon-ltd
+대성에너지 117580 /equities/daesung-energy
+Suprema Inc 236200 /equities/suprema-inc
+미래산업 025560 /equities/mirae
+BCworld Pharm Co Ltd 200780 /equities/bcworld-pharm-co-ltd
+웅진에너지 103130 /equities/woongjin-energy-co
+Woorison F&G Co Ltd 073560 /equities/woorison-fg-co-ltd
+Ndfos Co Ltd 238090 /equities/ndfos-co-ltd
+한라 014790 /equities/halla-eng-cons
+DSK Co Ltd 109740 /equities/dsk-co-ltd
+Robostar Co Ltd 090360 /equities/robostar-co-ltd
+Aprogen Healthcare & Games Inc 109960 /equities/locojoy-international-corp
+일동제약 000230 /equities/il-dong-pharm
+Sewoon Medical Co Ltd 100700 /equities/sewoon-medical-co-ltd
+Dongsung Finetec Co Ltd 033500 /equities/dongsung-finetec-co-ltd
+계양전기 012200 /equities/keyang-elec-ma
+Hicel Co Ltd 066980 /equities/hicel-co-ltd
+일진전기 103590 /equities/iljin-electric-co
+CammSys Corp 050110 /equities/cammsys-corp
+MDS Technology Co Ltd 086960 /equities/mds-technology-co-ltd
+도화엔지니어링 002150 /equities/dohwa-engin
+KG케미칼 001390 /equities/kg-chemical
+Infinitt Healthcare Co Ltd 071200 /equities/infinitt-healthcare-co-ltd
+Feelingk Co Ltd 064800 /equities/feelingk-co-ltd
+노루페인트 090350 /equities/noroo-paint
+이월드 084680 /equities/e-world
+Exem Co Ltd 205100 /equities/exem-co-ltd
+SH에너지화학 002360 /equities/sh-e---c
+LIS Co Ltd 138690 /equities/lis-co-ltd
+Wayport HK Co Ltd 900130 /equities/wayport-hk-co-ltd
+Woongjin Co Ltd 016880 /equities/woongjin-holdi
+엠케이트렌드 069640 /equities/mk-trend
+Keyeast Co Ltd 054780 /equities/keyeast-co-ltd
+S Connect Co Ltd 096630 /equities/s-connect-co-ltd
+DNF Co Ltd 092070 /equities/dnf-co-ltd
+경인양행 012610 /equities/kyungin-synthe
+Changhae Ethanol Co Ltd 004650 /equities/changhae-ethanol-co-ltd
+HyVISION SYSTEM Inc 126700 /equities/hyvision-system-inc
+Power Logics 047310 /equities/power-logics
+Prostemics Co Ltd 203690 /equities/prostemics-co-ltd
+Isu Abxis Co Ltd 086890 /equities/isu-abxis-co-ltd
+Dexter Studios Co Ltd 206560 /equities/dexter-studios-co-ltd
+HLB Life Science Co Ltd 067630 /equities/hlb-life-science-co-ltd
+계룡건설 013580 /equities/kyeryong-const
+Hans Biomed Corp 042520 /equities/hans-biomed-corp
+Actoz Soft Co Ltd 052790 /equities/actoz-soft-co-ltd
+Anterogen Co Ltd 065660 /equities/anterogen-co-ltd
+한진중공업홀딩스 003480 /equities/hhic-holdings
+Iriver Ltd 060570 /equities/iriver-ltd
+Maeil Dairy Industry Co Ltd 005990 /equities/maeil-dairy-industry-co-ltd
+Geno Focus Inc 187420 /equities/geno-focus-inc
+J Stephen Lab Ltd 096690 /equities/sewoo-tech-co-ltd
+Galaxia Communications Co Ltd 094480 /equities/galaxia-communications-co-ltd
+Barunson Entertainment & Arts Corp 035620 /equities/barunson-entertainment-arts-corp
+GⅡR 035000 /equities/g-ii-r
+Samyang Optics Co Ltd 225190 /equities/samyang-optics-co-ltd
+IA Inc 038880 /equities/ia-inc
+Osung LST Co Ltd 052420 /equities/osung-lst-co-ltd
+Huvitz Co Ltd 065510 /equities/huvitz-co-ltd
+Solborn Inc 035610 /equities/solborn-inc
+Inscobee 006490 /equities/loenk
+Hize Aero Co Ltd 221840 /equities/hize-aero-co-ltd
+E Credible Co Ltd 092130 /equities/e-credible-co-ltd
+GeneOne Life Science Inc 011000 /equities/vgx-intl
+Incross Co Ltd 216050 /equities/incross-co-ltd
+i3system Inc 214430 /equities/i3system-inc
+YJM Games Co Ltd 193250 /equities/yjm-games-co-ltd
+SatrecInitiative Co Ltd 099320 /equities/satrecinitiative-co-ltd
+디씨엠 024090 /equities/dcm
+KG Eco Technology Services Co Ltd 151860 /equities/kg-eco-technology-services-co-ltd
+DK UIL Co Ltd 049520 /equities/dk-uil-co-ltd
+사조대림 003960 /equities/sajodaerim
+Woory Industrial Holdings Co Ltd 072470 /equities/woory-industrial-holdings-co-ltd
+Mobase Co Ltd 101330 /equities/mobase-co-ltd
+Sejin Heavy Industries Co Ltd 075580 /equities/sejin-heavy-industries-co-ltd
+KAON Media Co Ltd 078890 /equities/kaon-media-co-ltd
+Home Center Holdings Co Ltd 060560 /equities/home-center-co-ltd
+MNtech Co Ltd 095500 /equities/mntech-co-ltd
+미창석유 003650 /equities/mi-chang-oil
+Bugs Corp 104200 /equities/bugs-corp
+남선알미늄 008350 /equities/namsun-alumini
+DHP Korea Co Ltd 131030 /equities/dhp-korea-co-ltd
+Mirae Asset No.4 Special Purpose Acquisition Co 222420 /equities/mirae-asset-no4-special-purpose-ac
+Park Systems Corp 140860 /equities/park-systems-corp
+삼양통상 002170 /equities/sam-yang-t-s
+휴니드 005870 /equities/huneed-tech
+Neptune Co 217270 /equities/daishin-balance-1st-special-purpose
+신성통상 005390 /equities/shinsung-tngsn
+Uju Electronics Co Ltd 065680 /equities/uju-electronics-co-ltd
+Kocom Co Ltd 015710 /equities/kocom-co-ltd
+Ahn-Gook Pharmaceutical Co Ltd 001540 /equities/ahn-gook-pharmaceutical-co-ltd
+신영와코루 005800 /equities/shinyoung-waco
+Kahee Co Ltd 030270 /equities/kahee-co-ltd
+상신브레이크 041650 /equities/sangsin-brake
+Kang Stem Biotech Co Ltd 217730 /equities/kang-stem-biotech-co-ltd
+삼성제약 001360 /equities/samsung-pharm
+Hwajin Co Ltd 134780 /equities/hwajin-co-ltd
+Action Square Co Ltd 205500 /equities/action-square-co-ltd
+태경물산 015890 /equities/tae-kyung-ind
+Deutsch Motors Inc 067990 /equities/deutsch-motors-inc
+Hankang Intertrade Co Ltd 219550 /equities/sk-no2-special-purpose-acquisition
+대성홀딩스 016710 /equities/daesung-holdin
+Tovis Co Ltd 051360 /equities/tovis-co-ltd
+새론오토모티브 075180 /equities/saeron-auto
+한전산업 130660 /equities/kepid
+Rsupport Co Ltd 131370 /equities/rsupport-co-ltd
+대한화섬 003830 /equities/daehan-synthet
+Soosung Lift MFG Co Ltd 084180 /equities/soosung-lift-mfg-co-ltd
+명문제약 017180 /equities/myungmoon-phar
+한국제지 002300 /equities/hankuk-paper
+Protec Co Ltd 053610 /equities/protec-co-ltd
+삼원강재 023000 /equities/samwon-steel
+Tongyang Pile Inc 228340 /equities/tongyang-pile-inc
+Danawa Co Ltd 119860 /equities/danawa-co-ltd
+Cellumed Co Ltd 049180 /equities/cellumed-co-ltd
+Wonpung Mulsan 008290 /equities/wonpung-mulsan
+SPG Co Ltd 058610 /equities/spg-co-ltd
+Kona I Co Ltd 052400 /equities/kona-i-co-ltd
+RedcapTour Co Ltd 038390 /equities/redcaptour-co-ltd
+Corestem Inc 166480 /equities/corestem-inc
+Yonghyun BM Co Ltd 089230 /equities/yonghyun-bm-co-ltd
+미원화학 134380 /equities/miwon-chemical
+신원 009270 /equities/shinwon
+Daesung Eltec Co Ltd 025440 /equities/daesung-eltec-co-ltd
+CKH Food & Health Ltd 900120 /equities/ckh-food-health-ltd
+Osangjaiel Co Ltd 053980 /equities/osangjaiel-co-ltd
+동아지질 028100 /equities/donga-geologic
+Samchuly Bicycle Co Ltd 024950 /equities/samchuly-bicycle-co-ltd
+Devsisters Corp 194480 /equities/devsisters-corp
+Kopla Co Ltd 126600 /equities/kopla-co-ltd
+Very Good Leisure Co Ltd 094850 /equities/very-good-leisure-co-ltd
+Wins Co Ltd 136540 /equities/wins-co-ltd
+코스모화학 005420 /equities/cosmo-chem
+Pangen Biotech Inc 222110 /equities/pangen-biotech-inc
+Ehwa Technologies Information Co Ltd 024810 /equities/ehwa-technologies-information-co-lt
+KC그린홀딩스 009440 /equities/kc-green-holdi
+Surplus Global Inc 140070 /equities/surplus-global-inc
+우진플라임 049800 /equities/woojin-plaimm
+Young Poong Precision Corp 036560 /equities/young-poong-precision-corp
+Anapass Inc 123860 /equities/anapass-inc
+SNUPrecision Co Ltd 080000 /equities/snuprecision-co-ltd
+HL Science Co Ltd 239610 /equities/hl-science-co-ltd
+Mobile Appliance Inc 087260 /equities/mobile-appliance-inc
+CTC Bio Inc 060590 /equities/ctc-bio-inc
+고려개발 004200 /equities/korea-dvlp
+UB Care Co Ltd 032620 /equities/ub-care-co-ltd
+Daewonsanup 005710 /equities/daewonsanup
+Kodaco Co Ltd 046070 /equities/kodaco-co-ltd
+대현 016090 /equities/dae-hyun
+TSE Co Ltd 131290 /equities/tse-co-ltd
+Abov Semiconductor Co Ltd 102120 /equities/abov-semiconductor-co-ltd
+Initech Co Ltd 053350 /equities/initech-co-ltd
+광전자 017900 /equities/auk-corp
+Neowiz Holdings Corp 042420 /equities/neowiz-holdings-corp
+APS Holdings Corporation 054620 /equities/advanced-process-systems-corp
+사조오양 006090 /equities/sajo-oyang
+대구백화점 006370 /equities/daegu-dept-sto
+S-Mac Co Ltd 097780 /equities/s-mac-co-ltd
+Korea New Network Corp 058400 /equities/korea-new-network-corp
+Sigong Tech Co Ltd 020710 /equities/sigong-tech-co-ltd
+Dongbu Inc 012030 /equities/dongbucni
+동일방직 001530 /equities/dong-il
+Seoul Auction Co Ltd 063170 /equities/seoul-auction-co-ltd
+대림B&Co 005750 /equities/daelim-b-co
+Yes24 Co Ltd 053280 /equities/yes24-co-ltd
+디아이 003160 /equities/d-i-corp
+Hyundai C&F Inc 227840 /equities/hyundai-c-f-inc
+Echo Marketing Co Ltd 230360 /equities/echo-marketing-co-ltd
+Modacom Co Ltd 149940 /equities/modacom-co-ltd
+SIMPAC 009160 /equities/simpac
+Daea TI Co Ltd 045390 /equities/daea-ti-co-ltd
+한국공항 005430 /equities/korea-air-svc
+Corentec Co Ltd 104540 /equities/corentec-co-ltd
+기신정기 092440 /equities/kishin-copr
+동양물산 002900 /equities/tongyang-mools
+천일고속 000650 /equities/chunil-express
+Asia Pacific Satellite Communications Inc 211270 /equities/asia-pacific-satellite-communicatio
+윌비스 008600 /equities/willbes
+에넥스 011090 /equities/enex
+Taihan Fiberoptics Co Ltd 010170 /equities/taihan-fiberoptics-co-ltd
+신일산업 002700 /equities/shinil-ind
+IDIS Holdings Co Ltd 054800 /equities/idis-holdings-co-ltd
+Medifron DBT Co Ltd 065650 /equities/medifron-dbt-co-ltd
+Sebo Manufacturing Engineering Corp 011560 /equities/sebo-manufacturing-engineering-corp
+Openbase Inc 049480 /equities/openbase-inc
+UGint Co Ltd 195990 /equities/ugint-co-ltd
+KPM Tech Co Ltd 042040 /equities/kpm-tech-co-ltd
+Dayou Winia Co Ltd 071460 /equities/dayou-winia-co-ltd
+Ace Technologies Corp 088800 /equities/ace-technologies-corp
+Rorze Systems Corp 071280 /equities/rorze-systems-corp
+인천도시가스 034590 /equities/incheon-city-g
+Jeongsan Aikang Co Ltd 022220 /equities/jeongsan-aikang-co-ltd
+Korea Materials & Analysis Corp 043290 /equities/korea-materials-analysis-corp
+SG&G Corp 040610 /equities/sgg-corp
+Bixolon Co Ltd 093190 /equities/bixolon-co-ltd
+신세계건설 034300 /equities/shinsegae-cons
+Korea Electronic Certification Authority 041460 /equities/korea-electronic-certification-auth
+FarmStory Co Ltd 027710 /equities/farmstory-co-ltd
+Choong Ang Vaccine Laboratory 072020 /equities/choong-ang-vaccine-laboratory
+KSCB Co Ltd 065940 /equities/kscb-co-ltd
+성보화학 003080 /equities/sung-bo-chem
+신세계I&C 035510 /equities/shinsegae-i-c
+백광산업 001340 /equities/paik-kwang-ind
+Kukbo Design 066620 /equities/kukbo-design
+Telechips Inc 054450 /equities/telechips-inc
+Han Kook Capital Co Ltd 023760 /equities/han-kook-capital-co-ltd
+영흥철강 012160 /equities/young-heung-i-
+EstechPharma Co Ltd 041910 /equities/estechpharma-co-ltd
+ELP Corp 063760 /equities/elp-corp
+경농 002100 /equities/kyungnong
+Korea Fuel-Tech Corp 123410 /equities/korea-fuel-tech-corp
+Cheoum & C Co Ltd 111820 /equities/cheoum-c-co-ltd
+GigaLane Co Ltd 049080 /equities/gigalane-co-ltd
+조광페인트 004910 /equities/cho-kwang-pain
+Haesung Industrial Co Ltd 034810 /equities/haesung-industrial-co-ltd
+NI스틸 008260 /equities/ni-steel
+참엔지니어링 009310 /equities/charm-engine
+선창산업 002820 /equities/sunchang
+한신기계 011700 /equities/han-shin-mach
+CMS Edu Co Ltd 225330 /equities/cms-edu-co-ltd
+Daeyang Electric Co Ltd 108380 /equities/daeyang-electric-co-ltd
+LB Semicon Co Ltd 061970 /equities/lb-semicon-co-ltd
+삼호개발 010960 /equities/samho-dev
+한솔홈데코 025750 /equities/hansol-homedec
+Hanyang Hitao Co Ltd 064090 /equities/hanyang-hitao-co-ltd
+현대약품 004310 /equities/hyundai-pharm
+Eubiologics Co Ltd 206650 /equities/eubiologics-co-ltd
+Invenia Co Ltd 079950 /equities/invenia-co-ltd
+Sinsin Pharm 002800 /equities/sinsin-pharm
+Kook Soon Dang Co Ltd 043650 /equities/kook-soon-dang-co-ltd
+Sam-A Pharm Co Ltd 009300 /equities/sam-a-pharm-co-ltd
+ChoA Pharmaceutical Co Ltd 034940 /equities/choa-pharmaceutical-co-ltd
+ISE Commerce Co Ltd 069920 /equities/ise-commerce-co-ltd
+KMH Co Ltd 122450 /equities/kmh-co-ltd
+Romanson Co Ltd 026040 /equities/romanson-co-ltd
+동일고무벨트 163560 /equities/drb-industrial
+Chungdahm Learning Inc 096240 /equities/chungdahm-learning-inc
+Eco Bio Holdings Co Ltd 038870 /equities/eco-bio-holdings-co-ltd
+대유에이텍 002880 /equities/dayou-a-tech
+JCHyunSystem 033320 /equities/jchyunsystem
+극동유화 014530 /equities/kukdong-oil--
+DST Robot Co Ltd 090710 /equities/dst-robot-co-ltd
+Signetics Corp 033170 /equities/signetics-corp
+Vitzro Tech Co Ltd 042370 /equities/vitzro-tech-co-ltd
+Huayi Brothers Co Ltd 204630 /equities/huayi-brothers-co-ltd
+DaebongLS Co Ltd 078140 /equities/daebongls-co-ltd
+ESTec Corp 069510 /equities/estec-corp
+황금에스티 032560 /equities/hwang-kum-stee
+Synopex Inc 025320 /equities/synopex-inc
